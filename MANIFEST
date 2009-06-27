@@ -1,7 +1,7 @@
-ChangeLog
-Makefile.PL
-MANIFEST
-README
-test.pl
 BeCool.pm
-META.yml                                 Module meta-data (added by MakeMaker)
+ChangeLog
+MANIFEST
+META.yml
+Makefile.PL
+README
+t/test.t

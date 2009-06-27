@@ -23,7 +23,7 @@ use strict;
 use warnings;
 #;
 
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 use LWP::Simple;
 
@@ -66,5 +66,9 @@ Bug reports welcome, patches even more welcome.
 Copyright (C) 2009 Sean O'Rourke.  All rights reserved, some wrongs
 reversed.  This module is distributed under the same terms as Perl
 itself.
+
+=head1 LICENSE
+
+This module is distributed under the same terms as Perl itself.
 
 =cut
